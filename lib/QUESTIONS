@@ -1,0 +1,9 @@
+1. what role does trhe name of the file play with the testing, as long as the require part is correct is that all that is needed?
+2. need to find out what was wrong with COuntingg filed and then make it work. I think it has to do with congruency with regards to the names given to the file and the local variables within the class and fiule names expected by rspec
+or it could also be due to not filling in every part of the class object
+
+3. why does this =>  not work, but this .delete('.­!?,') does
+
+4. text = "my rando­m sente­nce..,.!?"
+word = text.split(" ").delete("my")
+puts wordgivving the result of my??
